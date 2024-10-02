@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PicoType", "PicoType.vcxproj", "{2C4D8F1C-ED46-466C-A7D9-EA0BA49922AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4D8F1C-ED46-466C-A7D9-EA0BA49922AF}.Debug|x64.ActiveCfg = Debug|x64
+		{2C4D8F1C-ED46-466C-A7D9-EA0BA49922AF}.Debug|x64.Build.0 = Debug|x64
+		{2C4D8F1C-ED46-466C-A7D9-EA0BA49922AF}.Release|x64.ActiveCfg = Release|x64
+		{2C4D8F1C-ED46-466C-A7D9-EA0BA49922AF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7042F2E2-AA58-4BA3-AA87-60D89BC378B9}
+	EndGlobalSection
+EndGlobal
