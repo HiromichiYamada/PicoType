@@ -136,9 +136,6 @@
     <Filter Include="Resource Files\engine\font\min">
       <UniqueIdentifier>{1b103960-f11a-4515-b4f1-f59333ce00d9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\se">
-      <UniqueIdentifier>{42524055-cd3a-479a-81e9-2292de47fc67}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -778,18 +775,6 @@
     </Media>
     <Media Include="App\example\shot.mp3">
       <Filter>Resource Files\example</Filter>
-    </Media>
-    <Media Include="App\se\ok-22.mp3">
-      <Filter>Resource Files\se</Filter>
-    </Media>
-    <Media Include="App\se\error-05.mp3">
-      <Filter>Resource Files\se</Filter>
-    </Media>
-    <Media Include="App\se\finished.mp3">
-      <Filter>Resource Files\se</Filter>
-    </Media>
-    <Media Include="App\se\ok-01.mp3">
-      <Filter>Resource Files\se</Filter>
     </Media>
   </ItemGroup>
   <ItemGroup>

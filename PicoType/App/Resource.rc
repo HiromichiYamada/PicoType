@@ -7,11 +7,6 @@
 //////////////////////////////////////////////////////
 DefineResource(100, ICON, icon.ico)
 
-Resource(se/ok-01.mp3)
-Resource(se/ok-22.mp3)
-Resource(se/error-05.mp3)
-Resource(se/finished.mp3)
-
 //
 //	Shaders
 //

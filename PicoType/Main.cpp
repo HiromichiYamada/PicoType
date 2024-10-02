@@ -38,6 +38,7 @@ struct App
 		{ U"コラピステ", U"korapisute" },
 		{ U"テラスピコ", U"terasupiko" },
 		{ U"テピコスラ", U"tepikosura" },
+		*/
 
 		{ U"スピコテラ", U"supikotera" },
 		{ U"スコテラピ", U"sukoterapi" },
@@ -45,7 +46,6 @@ struct App
 		//{ U"ピピテラス", U"pipiterasu" },
 		{ U"ススススス", U"sususususu" },
 		{ U"テララテラ", U"teraratera" },
-		*/
 	};
 	Array<int> questionIndices;	// 表示順に問題インデックスを格納する配列.
 	int questionIndex = -1;		// 表示中の問題インデックス.
@@ -331,6 +331,15 @@ void Main()
 	Scene::SetBackground(ColorF{ 0.6, 0.8, 0.7 });
 
 	app.initQuestions();
+
+	/*
+	Print << U"------";
+	for (const auto& path : EnumResourceFiles())
+	{
+		Print << path;
+	}
+	Print << U"------";
+	*/
 
 	while (System::Update())
 	{

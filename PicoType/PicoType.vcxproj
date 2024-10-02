@@ -311,10 +311,6 @@
     <Media Include="App\example\shot.mp3" />
     <Media Include="App\example\test.mp3" />
     <Media Include="App\example\video\river.mp4" />
-    <Media Include="App\se\error-05.mp3" />
-    <Media Include="App\se\finished.mp3" />
-    <Media Include="App\se\ok-01.mp3" />
-    <Media Include="App\se\ok-22.mp3" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="App\example\font\DotGothic16\DotGothic16-Regular.ttf" />
